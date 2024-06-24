@@ -1,0 +1,13 @@
+{
+  "carbine": { "stock": 11 },
+  "healer": { "stock": 20 },
+  "armour": { "stock": 19 },
+  "ammo": { "stock": 27500 },
+  "specialcarbine": { "stock": 5 },
+  "ext clip": { "stock": 14 },
+  "grip": { "stock": 15 },
+  "repairkit": { "stock": 32 },
+  "band": { "stock": 50 },
+  "scope": { "stock": 1 },
+  "sup": { "stock": 3 }
+}
